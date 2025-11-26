@@ -1,0 +1,22 @@
+{
+  "version": "0.1.2",
+  "patchType": "incremental",
+  "baseVersion": "0.1.0",
+  "releaseDate": "2025-11-26",
+  "releaseNotes": "Settings menu improvements and auto-updater fix",
+  "downloadUrl": "https://github.com/andrewleewiles/poptropica-as2-desktop/releases/download/v0.1.2/poptropica-patch-0.1.2.zip",
+  "fileSizeBytes": 148824,
+  "fileSizeMB": 0.15,
+  "filesChanged": 4,
+  "changedFiles": [
+    "src/renderer/base-pepper.html",
+    "src/main.js",
+    "src/preload.js",
+    "src/auto-updater.js"
+  ],
+  "changelog": [
+    "Added dynamic version number display in preferences popup",
+    "Removed FPS toggle from settings menu",
+    "Fixed auto-updater to follow HTTP redirects"
+  ]
+}
