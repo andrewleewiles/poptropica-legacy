@@ -1,17 +1,20 @@
 {
-  "version": "0.1.1",
+  "version": "0.1.2",
   "patchType": "incremental",
-  "baseVersion": "0.1.0",
+  "baseVersion": "0.1.1",
   "releaseDate": "2025-11-26",
-  "releaseNotes": "Bug fix for infinite item pickup",
-  "downloadUrl": "https://github.com/andrewleewiles/poptropica-legacy/releases/download/v0.1.1/poptropica-patch-0.1.1.zip",
-  "fileSizeBytes": 520886,
-  "fileSizeMB": 0.5,
-  "filesChanged": 1,
+  "releaseNotes": "Added dynamic version number display in preferences",
+  "downloadUrl": "https://github.com/andrewleewiles/poptropica-legacy/releases/download/v0.1.2/poptropica-patch-0.1.2.zip",
+  "fileSizeBytes": 145754,
+  "fileSizeMB": 0.14,
+  "filesChanged": 3,
   "changedFiles": [
-    "content/www.poptropica.com/char.swf"
+    "src/renderer/base-pepper.html",
+    "src/main.js",
+    "src/preload.js"
   ],
   "changelog": [
-    "Fixed bug where picking up items would trigger infinitely, adding duplicate cards to inventory"
+    "Added dynamic version number display at bottom of preferences popup",
+    "Version now pulled from app.getVersion() via IPC"
   ]
 }
