@@ -1,11 +1,11 @@
 {
-  "version": "0.1.2",
+  "version": "0.1.1",
   "patchType": "incremental",
   "baseVersion": "0.1.0",
   "releaseDate": "2025-11-26",
   "releaseNotes": "Settings menu improvements and auto-updater fix",
-  "downloadUrl": "https://github.com/andrewleewiles/poptropica-as2-desktop/releases/download/v0.1.2/poptropica-patch-0.1.2.zip",
-  "fileSizeBytes": 148824,
+  "downloadUrl": "https://github.com/andrewleewiles/poptropica-legacy/releases/download/v0.1.1/poptropica-patch-0.1.1.zip",
+  "fileSizeBytes": 148904,
   "fileSizeMB": 0.15,
   "filesChanged": 4,
   "changedFiles": [
@@ -17,6 +17,7 @@
   "changelog": [
     "Added dynamic version number display in preferences popup",
     "Removed FPS toggle from settings menu",
+    "Added Dev Console toggle to Debug Tools menu (Shift+D)",
     "Fixed auto-updater to follow HTTP redirects"
   ]
 }
