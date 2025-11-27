@@ -1,24 +1,17 @@
 {
   "version": "0.1.1",
   "patchType": "incremental",
-  "baseVersion": "0.1.0",
+  "baseVersion": "0.1.1",
   "releaseDate": "2025-11-27",
-  "releaseNotes": "New styled auto-updater window with Poptropica Legacy branding",
+  "releaseNotes": "Patch 0.1.1",
   "downloadUrl": "https://github.com/andrewleewiles/poptropica-legacy/releases/download/v0.1.1/poptropica-patch-0.1.1.zip",
-  "fileSizeBytes": 150534,
-  "fileSizeMB": 0.15,
-  "filesChanged": 5,
+  "fileSizeBytes": 117234,
+  "fileSizeMB": 0.11,
+  "filesChanged": 3,
   "changedFiles": [
-    "src/renderer/base-pepper.html",
-    "src/main.js",
-    "src/preload.js",
-    "src/auto-updater.js",
-    "package.json"
+    "app/src/auto-updater.js",
+    "app/package.json",
+    "content/www.poptropica.com/popups/inventory.swf"
   ],
-  "changelog": [
-    "New styled auto-updater window with custom background and logo",
-    "CreativeBlockBB font for status text",
-    "Improved loading bar with CSS gradient",
-    "Dynamic version display from package.json"
-  ]
+  "changelog": []
 }
