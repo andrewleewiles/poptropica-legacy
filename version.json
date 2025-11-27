@@ -1,14 +1,14 @@
 {
-  "version": "0.1.4",
+  "version": "0.1.5",
   "patchType": "incremental",
   "baseVersion": "0.1.0",
   "releaseDate": "2025-11-27",
-  "releaseNotes": "Patch 0.1.4",
-  "downloadUrl": "https://github.com/andrewleewiles/poptropica-legacy/releases/download/v0.1.4/poptropica-patch-0.1.4.zip",
-  "fileSizeBytes": 3160983,
+  "releaseNotes": "Patch 0.1.5",
+  "downloadUrl": "https://github.com/andrewleewiles/poptropica-legacy/releases/download/v0.1.5/poptropica-patch-0.1.5.zip",
+  "fileSizeBytes": 3160962,
   "fileSizeMB": 3.01,
   "filesChanged": 4,
-  "filesDeleted": 31,
+  "filesDeleted": 32,
   "changedFiles": [
     "app/src/main.js",
     "app/src/auto-updater.js",
@@ -46,7 +46,8 @@
     "content/www.poptropica.com/profiles/test3_preview.html",
     "content/www.poptropica.com/profiles/testguy_preview.html",
     "content/www.poptropica.com/profiles/testprof_preview.html",
-    "content/www.poptropica.com/profiles/zany_preview.html"
+    "content/www.poptropica.com/profiles/zany_preview.html",
+    "pepper/windows/flash.dll"
   ],
   "changelog": []
 }
