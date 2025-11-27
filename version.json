@@ -5,14 +5,15 @@
   "releaseDate": "2025-11-26",
   "releaseNotes": "Auto-updater improvements and settings menu updates",
   "downloadUrl": "https://github.com/andrewleewiles/poptropica-legacy/releases/download/v0.1.2/poptropica-patch-0.1.2.zip",
-  "fileSizeBytes": 150063,
+  "fileSizeBytes": 150452,
   "fileSizeMB": 0.15,
-  "filesChanged": 4,
+  "filesChanged": 5,
   "changedFiles": [
     "src/renderer/base-pepper.html",
     "src/main.js",
     "src/preload.js",
-    "src/auto-updater.js"
+    "src/auto-updater.js",
+    "package.json"
   ],
   "changelog": [
     "Added startup update window with progress indicator",
