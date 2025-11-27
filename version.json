@@ -1,10 +1,10 @@
 {
-  "version": "0.1.2",
+  "version": "0.1.1",
   "patchType": "incremental",
   "baseVersion": "0.1.0",
-  "releaseDate": "2025-11-26",
-  "releaseNotes": "Auto-updater improvements and settings menu updates",
-  "downloadUrl": "https://github.com/andrewleewiles/poptropica-legacy/releases/download/v0.1.2/poptropica-patch-0.1.2.zip",
+  "releaseDate": "2025-11-27",
+  "releaseNotes": "New styled auto-updater window with Poptropica Legacy branding",
+  "downloadUrl": "https://github.com/andrewleewiles/poptropica-legacy/releases/download/v0.1.1/poptropica-patch-0.1.1.zip",
   "fileSizeBytes": 150534,
   "fileSizeMB": 0.15,
   "filesChanged": 5,
@@ -16,11 +16,9 @@
     "package.json"
   ],
   "changelog": [
-    "Added startup update window with progress indicator",
-    "Auto-updater now checks and installs updates before game launch",
-    "Added dynamic version number display in preferences popup",
-    "Removed FPS toggle from settings menu",
-    "Added Dev Console toggle to Debug Tools menu (Shift+D)",
-    "Fixed auto-updater to follow HTTP redirects"
+    "New styled auto-updater window with custom background and logo",
+    "CreativeBlockBB font for status text",
+    "Improved loading bar with CSS gradient",
+    "Dynamic version display from package.json"
   ]
 }
