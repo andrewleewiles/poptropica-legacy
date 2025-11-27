@@ -1,17 +1,16 @@
 {
-  "version": "0.1.1",
+  "version": "0.1.2",
   "patchType": "incremental",
-  "baseVersion": "0.1.1",
+  "baseVersion": "0.1.0",
   "releaseDate": "2025-11-27",
-  "releaseNotes": "Patch 0.1.1",
-  "downloadUrl": "https://github.com/andrewleewiles/poptropica-legacy/releases/download/v0.1.1/poptropica-patch-0.1.1.zip",
-  "fileSizeBytes": 117234,
-  "fileSizeMB": 0.11,
-  "filesChanged": 3,
+  "releaseNotes": "Patch 0.1.2",
+  "downloadUrl": "https://github.com/andrewleewiles/poptropica-legacy/releases/download/v0.1.2/poptropica-patch-0.1.2.zip",
+  "fileSizeBytes": 3338,
+  "fileSizeMB": 0,
+  "filesChanged": 2,
   "changedFiles": [
-    "app/src/auto-updater.js",
     "app/package.json",
-    "content/www.poptropica.com/popups/inventory.swf"
+    "content/www.poptropica.com/popups/fl_iface.swf"
   ],
   "changelog": []
 }
