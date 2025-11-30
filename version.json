@@ -1,13 +1,13 @@
 {
-  "version": "0.1.20",
+  "version": "0.1.21",
   "patchType": "incremental",
   "baseVersion": "0.1.0",
   "releaseDate": "2025-11-30",
-  "releaseNotes": "Patch 0.1.20",
-  "downloadUrl": "https://github.com/andrewleewiles/poptropica-legacy/releases/download/v0.1.20/poptropica-patch-0.1.20.zip",
-  "fileSizeBytes": 7678994,
+  "releaseNotes": "Patch 0.1.21",
+  "downloadUrl": "https://github.com/andrewleewiles/poptropica-legacy/releases/download/v0.1.21/poptropica-patch-0.1.21.zip",
+  "fileSizeBytes": 7680198,
   "fileSizeMB": 7.32,
-  "filesChanged": 863,
+  "filesChanged": 865,
   "filesDeleted": 165,
   "changedFiles": [
     "app/src/main.js",
@@ -523,6 +523,7 @@
     "content/www.poptropica.com/sound/islandShark/sceneCastaway/platforms.svg",
     "content/www.poptropica.com/sound/islandShark/sceneCoconut/platforms.svg",
     "content/www.poptropica.com/sound/islandShark/sceneMainstreet/platforms.svg",
+    "content/www.poptropica.com/sound/islandShark/sceneMainstreet/sounds.xml",
     "content/www.poptropica.com/sound/islandShark/sceneMedicine/platforms.svg",
     "content/www.poptropica.com/sound/islandShark/sceneMuseum2/platforms.svg",
     "content/www.poptropica.com/sound/islandShark/sceneRuins/platforms.svg",
@@ -872,7 +873,8 @@
     "content/www.poptropica.com/sound/islandZombie/sceneZombieCommon/platforms.svg",
     "content/www.poptropica.com/sound/islandZombie/sceneZombieMain/platforms.svg",
     "content/www.poptropica.com/sound/islandZombie/sceneZombieTunnel/platforms.svg",
-    "content/www.poptropica.com/sound/platforms-example.svg"
+    "content/www.poptropica.com/sound/platforms-example.svg",
+    "content/www.poptropica.com/sound/popups/astro_space/sounds.xml"
   ],
   "deletedFiles": [
     "content/www.poptropica.com/host-ui/normal.png",
