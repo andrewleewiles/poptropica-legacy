@@ -1,10 +1,39 @@
 {
-  "version": "0.1.25",
-  "patchType": "incremental",
+  "latestVersion": "0.1.26",
   "baseVersion": "0.1.0",
   "releaseDate": "2025-11-30",
-  "releaseNotes": "Patch 0.1.25",
-  "downloadUrl": "https://github.com/andrewleewiles/poptropica-as2-desktop/releases/download/v0.1.25/poptropica-patch-0.1.25.zip",
-  "fileSizeBytes": 462555377,
-  "fileSizeMB": 441.12
+  "patches": [
+    {
+      "version": "0.1.19",
+      "downloadUrl": "https://github.com/andrewleewiles/poptropica-as2-desktop/releases/download/v0.1.19/poptropica-patch-0.1.19.zip"
+    },
+    {
+      "version": "0.1.20",
+      "downloadUrl": "https://github.com/andrewleewiles/poptropica-as2-desktop/releases/download/v0.1.20/poptropica-patch-0.1.20.zip"
+    },
+    {
+      "version": "0.1.21",
+      "downloadUrl": "https://github.com/andrewleewiles/poptropica-as2-desktop/releases/download/v0.1.21/poptropica-patch-0.1.21.zip"
+    },
+    {
+      "version": "0.1.22",
+      "downloadUrl": "https://github.com/andrewleewiles/poptropica-as2-desktop/releases/download/v0.1.22/poptropica-patch-0.1.22.zip"
+    },
+    {
+      "version": "0.1.23",
+      "downloadUrl": "https://github.com/andrewleewiles/poptropica-as2-desktop/releases/download/v0.1.23/poptropica-patch-0.1.23.zip"
+    },
+    {
+      "version": "0.1.24",
+      "downloadUrl": "https://github.com/andrewleewiles/poptropica-as2-desktop/releases/download/v0.1.24/poptropica-patch-0.1.24.zip"
+    },
+    {
+      "version": "0.1.25",
+      "downloadUrl": "https://github.com/andrewleewiles/poptropica-as2-desktop/releases/download/v0.1.25/poptropica-patch-0.1.25.zip"
+    },
+    {
+      "version": "0.1.26",
+      "downloadUrl": "https://github.com/andrewleewiles/poptropica-as2-desktop/releases/download/v0.1.26/poptropica-patch-0.1.26.zip"
+    }
+  ]
 }
