@@ -1,6 +1,6 @@
 {
   "version": "0.1.26",
-  "latestVersion": "0.3.83",
+  "latestVersion": "0.3.84",
   "baseVersion": "0.1.0",
   "releaseDate": "2026-01-17",
   "patchType": "incremental",
@@ -761,6 +761,10 @@
     {
       "version": "0.3.83",
       "downloadUrl": "https://github.com/andrewleewiles/poptropica-legacy/releases/download/v0.3.83/poptropica-patch-0.3.83.zip"
+    },
+    {
+      "version": "0.3.84",
+      "downloadUrl": "https://github.com/andrewleewiles/poptropica-legacy/releases/download/v0.3.84/poptropica-patch-0.3.84.zip"
     }
   ]
 }
